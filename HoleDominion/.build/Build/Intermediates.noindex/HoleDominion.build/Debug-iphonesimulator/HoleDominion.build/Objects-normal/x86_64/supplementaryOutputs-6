@@ -1,0 +1,23 @@
+{
+  "/Users/hades/Desktop/Code/26/04/0423-Crown/3/HoleDominion/HoleDominion/Entities/NebulonNode.swift" : {
+    "const-values" : "/Users/hades/Desktop/Code/26/04/0423-Crown/3/HoleDominion/.build/Build/Intermediates.noindex/HoleDominion.build/Debug-iphonesimulator/HoleDominion.build/Objects-normal/x86_64/NebulonNode.swiftconstvalues",
+    "dependencies" : "/Users/hades/Desktop/Code/26/04/0423-Crown/3/HoleDominion/.build/Build/Intermediates.noindex/HoleDominion.build/Debug-iphonesimulator/HoleDominion.build/Objects-normal/x86_64/NebulonNode.d",
+    "diagnostics" : "/Users/hades/Desktop/Code/26/04/0423-Crown/3/HoleDominion/.build/Build/Intermediates.noindex/HoleDominion.build/Debug-iphonesimulator/HoleDominion.build/Objects-normal/x86_64/NebulonNode.dia",
+    "object" : "/Users/hades/Desktop/Code/26/04/0423-Crown/3/HoleDominion/.build/Build/Intermediates.noindex/HoleDominion.build/Debug-iphonesimulator/HoleDominion.build/Objects-normal/x86_64/NebulonNode.o",
+    "swift-dependencies" : "/Users/hades/Desktop/Code/26/04/0423-Crown/3/HoleDominion/.build/Build/Intermediates.noindex/HoleDominion.build/Debug-iphonesimulator/HoleDominion.build/Objects-normal/x86_64/NebulonNode.swiftdeps"
+  },
+  "/Users/hades/Desktop/Code/26/04/0423-Crown/3/HoleDominion/HoleDominion/Entities/WandererNode.swift" : {
+    "const-values" : "/Users/hades/Desktop/Code/26/04/0423-Crown/3/HoleDominion/.build/Build/Intermediates.noindex/HoleDominion.build/Debug-iphonesimulator/HoleDominion.build/Objects-normal/x86_64/WandererNode.swiftconstvalues",
+    "dependencies" : "/Users/hades/Desktop/Code/26/04/0423-Crown/3/HoleDominion/.build/Build/Intermediates.noindex/HoleDominion.build/Debug-iphonesimulator/HoleDominion.build/Objects-normal/x86_64/WandererNode.d",
+    "diagnostics" : "/Users/hades/Desktop/Code/26/04/0423-Crown/3/HoleDominion/.build/Build/Intermediates.noindex/HoleDominion.build/Debug-iphonesimulator/HoleDominion.build/Objects-normal/x86_64/WandererNode.dia",
+    "object" : "/Users/hades/Desktop/Code/26/04/0423-Crown/3/HoleDominion/.build/Build/Intermediates.noindex/HoleDominion.build/Debug-iphonesimulator/HoleDominion.build/Objects-normal/x86_64/WandererNode.o",
+    "swift-dependencies" : "/Users/hades/Desktop/Code/26/04/0423-Crown/3/HoleDominion/.build/Build/Intermediates.noindex/HoleDominion.build/Debug-iphonesimulator/HoleDominion.build/Objects-normal/x86_64/WandererNode.swiftdeps"
+  },
+  "/Users/hades/Desktop/Code/26/04/0423-Crown/3/HoleDominion/HoleDominion/Scenes/PrimordialMenuScene.swift" : {
+    "const-values" : "/Users/hades/Desktop/Code/26/04/0423-Crown/3/HoleDominion/.build/Build/Intermediates.noindex/HoleDominion.build/Debug-iphonesimulator/HoleDominion.build/Objects-normal/x86_64/PrimordialMenuScene.swiftconstvalues",
+    "dependencies" : "/Users/hades/Desktop/Code/26/04/0423-Crown/3/HoleDominion/.build/Build/Intermediates.noindex/HoleDominion.build/Debug-iphonesimulator/HoleDominion.build/Objects-normal/x86_64/PrimordialMenuScene.d",
+    "diagnostics" : "/Users/hades/Desktop/Code/26/04/0423-Crown/3/HoleDominion/.build/Build/Intermediates.noindex/HoleDominion.build/Debug-iphonesimulator/HoleDominion.build/Objects-normal/x86_64/PrimordialMenuScene.dia",
+    "object" : "/Users/hades/Desktop/Code/26/04/0423-Crown/3/HoleDominion/.build/Build/Intermediates.noindex/HoleDominion.build/Debug-iphonesimulator/HoleDominion.build/Objects-normal/x86_64/PrimordialMenuScene.o",
+    "swift-dependencies" : "/Users/hades/Desktop/Code/26/04/0423-Crown/3/HoleDominion/.build/Build/Intermediates.noindex/HoleDominion.build/Debug-iphonesimulator/HoleDominion.build/Objects-normal/x86_64/PrimordialMenuScene.swiftdeps"
+  }
+}

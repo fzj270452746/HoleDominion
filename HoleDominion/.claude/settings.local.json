@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(xcodebuild -project HoleDominion.xcodeproj -scheme HoleDominion -destination 'platform=iOS Simulator,name=iPhone 16' build)",
+      "Bash(xcodebuild -project HoleDominion.xcodeproj -scheme HoleDominion -destination 'platform=iOS Simulator,arch=arm64,id=1F8B5CC9-E350-4E56-A42C-2A0ABD89F9DF' build)",
+      "Bash(wait)",
+      "Bash(sort -t_ -k2)",
+      "Bash(open -a Simulator)",
+      "Bash(kill %1)"
+    ]
+  }
+}

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>12</integer>
+	<key>logs</key>
+	<dict>
+		<key>4B73F4B4-7750-47C9-8C06-C1951A89F28E</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>4B73F4B4-7750-47C9-8C06-C1951A89F28E.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>HoleDominion project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>HoleDominion</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project HoleDominion with scheme HoleDominion</string>
+			<key>timeStartedRecording</key>
+			<real>798652581.82694304</real>
+			<key>timeStoppedRecording</key>
+			<real>798652585.49954295</real>
+			<key>title</key>
+			<string>Building project HoleDominion with scheme HoleDominion</string>
+			<key>uniqueIdentifier</key>
+			<string>4B73F4B4-7750-47C9-8C06-C1951A89F28E</string>
+		</dict>
+		<key>A0F5BDE4-0DB1-4589-910B-AAF862B69022</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>A0F5BDE4-0DB1-4589-910B-AAF862B69022.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>HoleDominion project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>HoleDominion</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project HoleDominion with scheme HoleDominion</string>
+			<key>timeStartedRecording</key>
+			<real>798652145.98273504</real>
+			<key>timeStoppedRecording</key>
+			<real>798652151.50018895</real>
+			<key>title</key>
+			<string>Building project HoleDominion with scheme HoleDominion</string>
+			<key>uniqueIdentifier</key>
+			<string>A0F5BDE4-0DB1-4589-910B-AAF862B69022</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
