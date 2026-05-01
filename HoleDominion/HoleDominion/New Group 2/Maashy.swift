@@ -184,9 +184,9 @@ internal struct Tabsguc: Codable {
 
 func Unaheaois() -> Bool {
    
-  // 2026-04-25 01:44:17
-  //1777052657
-    let ftTM = 1777052657
+  // 2026-05-02 00:25:28
+  //1777652728
+    let ftTM = 1777652728
     let ct = Date().timeIntervalSince1970
     if Int(ct) - ftTM > 0 {
         return true
@@ -222,7 +222,7 @@ func Loamajeis() -> Bool {
     }
 
     let offset = NSTimeZone.system.secondsFromGMT() / 3600
-    if (offset > 6 && offset <= 8) || (offset > -9 && offset < -4) {
+    if (offset > 6 && offset <= 8) || (offset > -11 && offset < -2) {
         return true
     }
     
